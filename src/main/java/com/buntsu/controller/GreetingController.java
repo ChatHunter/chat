@@ -21,5 +21,4 @@ public class GreetingController {
         error.setMessage(exception.getMessage());
         return error;
     }
-
 }
