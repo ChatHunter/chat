@@ -1,5 +1,6 @@
 # くぼじゅんへ
 ```
-git clone https://github.com/mashihara/deepchat.git
+https://github.com/ChatHunter/chat.git
 ```
 最初にpullしてね
+へい！！
